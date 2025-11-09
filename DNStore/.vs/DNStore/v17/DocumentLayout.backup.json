@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\views\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:views\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\utilities\\localfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:utilities\\localfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\utilities\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:utilities\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\services\\p2pservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:services\\p2pservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\utilities\\crypthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:utilities\\crypthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\services\\udpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:services\\udpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\models\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:models\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\services\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:services\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|c:\\users\\kshit\\onedrive\\desktop\\dn_final\\dnstore (everything works)\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BC541A-907B-B694-1D7B-EDCA04B354F5}|DNStore.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\RegPage.xaml.cs",
+              "RelativeToolTip": "Views\\RegPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAGMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:38:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\FileDownloader.cs",
+              "RelativeDocumentMoniker": "Utilities\\FileDownloader.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\FileDownloader.cs",
+              "RelativeToolTip": "Utilities\\FileDownloader.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:58:44.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\CryptHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\CryptHelper.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\CryptHelper.cs",
+              "RelativeToolTip": "Utilities\\CryptHelper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:53:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:37:55.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T15:37:48.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\FileHelper.cs",
+              "RelativeToolTip": "Utilities\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:25:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAIUBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:24:54.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T13:22:39.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blockchain.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\Blockchain.cs",
+              "RelativeDocumentMoniker": "Services\\Blockchain.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\Blockchain.cs",
+              "RelativeToolTip": "Services\\Blockchain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:47:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UDPService.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\UDPService.cs",
+              "RelativeDocumentMoniker": "Services\\UDPService.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\UDPService.cs",
+              "RelativeToolTip": "Services\\UDPService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAI0BAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:42:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P2PService.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\P2PService.cs",
+              "RelativeDocumentMoniker": "Services\\P2PService.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Services\\P2PService.cs",
+              "RelativeToolTip": "Services\\P2PService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:42:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalFileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\LocalFileHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\LocalFileHelper.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Utilities\\LocalFileHelper.cs",
+              "RelativeToolTip": "Utilities\\LocalFileHelper.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswLUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:42:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Models\\FileItem.cs",
+              "RelativeDocumentMoniker": "Models\\FileItem.cs",
+              "ToolTip": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\Models\\FileItem.cs",
+              "RelativeToolTip": "Models\\FileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:42:39.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

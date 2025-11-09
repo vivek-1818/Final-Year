@@ -1,0 +1,141 @@
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.cache
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.baml
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\RegPage.baml
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.g.cs
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\RegPage.g.cs
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\MainPage.g.cs
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.lref
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\DNStore.exe
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\DNStore.deps.json
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\DNStore.runtimeconfig.json
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\Downloads\DNStore\DNStore\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.AssemblyReference.cache
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\Views\MainPage.baml
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.g.resources
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfoInputs.cache
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfo.cs
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.CoreCompileInputs.cache
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.Up2Date
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\refint\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
+C:\Users\kshit\Downloads\DNStore\DNStore\obj\Debug\net9.0-windows\ref\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\DNStore.exe
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\DNStore.deps.json
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\DNStore.runtimeconfig.json
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\OneDrive\Desktop\DNStore\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.AssemblyReference.cache
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.baml
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\RegPage.baml
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\MainPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\RegPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.cache
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.lref
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\Views\MainPage.baml
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.g.resources
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfoInputs.cache
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfo.cs
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.CoreCompileInputs.cache
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.Up2Date
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\refint\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
+C:\Users\kshit\OneDrive\Desktop\DNStore\obj\Debug\net9.0-windows\ref\DNStore.dll
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\DNStore.exe
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\DNStore.deps.json
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\DNStore.runtimeconfig.json
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\DNStore.dll
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\DNStore.pdb
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.baml
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\RegPage.baml
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.g.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\MainPage.g.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\RegPage.g.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.cache
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.lref
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\MainPage.baml
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.g.resources
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfo.cs
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.Up2Date
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.dll
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\refint\DNStore.dll
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.pdb
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
+C:\Users\user\Downloads\DNStore\DNStore\DNStore\DNStore_old\DNStore\obj\Debug\net9.0-windows\ref\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\DNStore.exe
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\DNStore.deps.json
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\DNStore.runtimeconfig.json
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\Downloads\DNStore\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.AssemblyReference.cache
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.baml
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\RegPage.baml
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\LoginPage.g.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\MainPage.g.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\RegPage.g.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.cache
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore_MarkupCompile.lref
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\MainPage.baml
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.g.resources
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfoInputs.cache
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.AssemblyInfo.cs
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.CoreCompileInputs.cache
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.csproj.Up2Date
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\refint\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
+C:\Users\kshit\Downloads\DNStore\obj\Debug\net9.0-windows\ref\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\DNStore.exe
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\DNStore.deps.json
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\DNStore.runtimeconfig.json
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.csproj.AssemblyReference.cache
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\LoginPage.baml
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\RegPage.baml
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\LoginPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\MainPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\RegPage.g.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore_MarkupCompile.cache
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore_MarkupCompile.lref
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\MainPage.baml
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.g.resources
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.AssemblyInfoInputs.cache
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.AssemblyInfo.cs
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.csproj.CoreCompileInputs.cache
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.csproj.Up2Date
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\refint\DNStore.dll
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.pdb
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
+C:\Users\kshit\OneDrive\Desktop\DN_final\DNStore (everything works)\obj\Debug\net9.0-windows\ref\DNStore.dll

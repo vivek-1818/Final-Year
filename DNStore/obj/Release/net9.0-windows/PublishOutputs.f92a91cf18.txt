@@ -1,0 +1,6 @@
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\DNStore.exe
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\DNStore.dll
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\DNStore.deps.json
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\DNStore.runtimeconfig.json
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\DNStore.pdb
+C:\Users\kshit\Downloads\DNStore\bin\Release\net9.0-windows\publish\Newtonsoft.Json.dll

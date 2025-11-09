@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAiE2FIr1MQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kshit\\OneDrive\\Desktop\\DN_final\\DNStore (everything works)\\DNStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kshit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,99 @@
+﻿<Page x:Class="DeezFiles.RegPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Background="#212121"
+      Title="Registration Page"
+      Height="800" Width="1280">
+
+
+    <Grid VerticalAlignment="Center">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock Text="DEEZFILES" FontFamily="Segoe UI" FontSize="36" Foreground="White" FontWeight="Bold" Margin="16,16,16,48" HorizontalAlignment="Center"/>
+
+            <TextBlock Text="E-Mail" FontFamily="Roboto" FontSize="16" Foreground="White" FontWeight="Light" Margin="16,0,0,4"/>
+            <TextBox x:Name="Email" TextWrapping="Wrap" Width="300" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium" Background="#d9d9d9" Foreground="#212121" Margin="0,0,0,16" TextChanged="Email_TextChanged">
+                <TextBox.Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="TextBox">
+                                    <Border CornerRadius="2" Background="{TemplateBinding Background}">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </TextBox.Style>
+            </TextBox>
+            <TextBlock x:Name="EmailError" Foreground="Red" Margin="10,5,0,16" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium"/>
+
+            <TextBlock Text="Username" FontFamily="Roboto" FontSize="16" Foreground="White" FontWeight="Light" Margin="16,0,0,4"/>
+            <TextBox x:Name="Username" TextWrapping="Wrap" Width="300" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium" Background="#d9d9d9" Foreground="#212121" Margin="0,0,0,16" TextChanged="Username_TextChanged">
+                <TextBox.Style>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="TextBox">
+                                    <Border CornerRadius="2" Background="{TemplateBinding Background}">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </TextBox.Style>
+            </TextBox>
+            <TextBlock x:Name="UsernameError" Foreground="Red" Margin="10,5,0,16" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium"/>
+
+            <TextBlock Text="Password" FontFamily="Roboto" FontSize="16" Foreground="White" FontWeight="Light" Margin="16,0,0,4"/>
+            <PasswordBox x:Name="Password" Width="300" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium" Background="#d9d9d9" Foreground="#212121" Margin="0,0,0,16" PasswordChanged="Password_PasswordChanged">
+                <PasswordBox.Style>
+                    <Style TargetType="PasswordBox">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="PasswordBox">
+                                    <Border CornerRadius="2" Background="{TemplateBinding Background}">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </PasswordBox.Style>
+            </PasswordBox>
+            <TextBlock x:Name="PasswordError" Foreground="Red" Margin="10,5,0,16" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium"/>
+
+            <TextBlock Text="Confirm Password" FontFamily="Roboto" FontSize="16" Foreground="White" FontWeight="Light" Margin="16,0,0,4"/>
+            <PasswordBox x:Name="ConfirmPassword" Width="300" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium" Background="#d9d9d9" Foreground="#212121" Margin="0,0,0,16" PasswordChanged="ConfirmPassword_PasswordChanged">
+                <PasswordBox.Style>
+                    <Style TargetType="PasswordBox">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="PasswordBox">
+                                    <Border CornerRadius="2" Background="{TemplateBinding Background}">
+                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </PasswordBox.Style>
+            </PasswordBox>
+            <TextBlock x:Name="ConfirmPasswordError" Foreground="Red" Margin="10,5,0,16" FontFamily="Segoe UI" FontSize="14" FontWeight="Medium"/>
+
+            <Button Name="RegButton" Click="RegButton_Click" Content="Register" FontSize="16" FontFamily="Segoe UI" FontWeight="Bold" Background="#c9a9ff" Foreground="#2a2a2a" HorizontalAlignment="Center" Width="100" Height="30" Margin="0,0,0,24">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="15" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>
